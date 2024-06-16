@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-16T19:15:03.167Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="vxFRiVs24MZf_C2GM2nS" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-16T19:16:10.027Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="pDNTMiniWMEqsDUIGWsi" version="24.5.4" type="github">
   <diagram name="Page-1" id="nlbGMaZcJaz8c30azb57">
     <mxGraphModel dx="1509" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -179,8 +179,8 @@
         <mxCell id="IqrTCXVaRgC0ry_F07dR-40" value="Email&lt;div&gt;Send email &amp;amp;&lt;/div&gt;&lt;div&gt;responsive actions&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="705.5" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IqrTCXVaRgC0ry_F07dR-42" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Credit:&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;MyDFIR&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;https://www.youtube.com/@MyDFIR&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1030" width="220" height="60" as="geometry" />
+        <mxCell id="IqrTCXVaRgC0ry_F07dR-42" value="&lt;div style=&quot;text-align: left;&quot;&gt;Diagram is based on the configuration mapped out by:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;MyDFIR&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;https://www.youtube.com/@MyDFIR&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="1020" width="310" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
